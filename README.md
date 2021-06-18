@@ -1,5 +1,7 @@
 # How to play : Blackjack
 
+## [Play Blackjack](https://thatbeautifuldream.github.io/blackjackGame/)
+
 ```Game Type: Casino
 Age: 18+
 Players: 2, 3, 4, 5+
